@@ -14,7 +14,7 @@
 
 
 <div class="container">
-    <h2>Reset Password</h2>
+    <h2>Reset Passwords</h2>
 
     <form id="resetForm">
         <label>User Number:</label>
