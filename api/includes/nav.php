@@ -2,7 +2,7 @@
   <div class="container-fluid">
 
     <!-- Brand -->
-    <a class="navbar-brand" href="#">CWP Roster</a>
+    <a class="navbar-brand" href="#">CWP Rosterr</a>
 
     <!-- Mobile toggle button -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
